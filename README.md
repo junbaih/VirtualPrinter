@@ -1,5 +1,5 @@
-# miniOS
-A mini OS demonstrating IO concurrency
+# Virtual Printer Work Scheduler
+A virtual scheduler demonstrating concurrency
 
 OS reads from USERs input, writes the input to the disk and prints data to PRINTERs concurrently. 
 
